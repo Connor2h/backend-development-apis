@@ -2,7 +2,7 @@
 	"author": "Connor Hollis",
 	"name": "fcc-learn-npm-package-json",
 	"description": "backend-development-apis",
-  "keywords": [ "descriptive", "related", "words" ],
+  "keywords": [ "descriptive", "related", "words", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
